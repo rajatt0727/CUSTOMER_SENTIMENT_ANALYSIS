@@ -132,3 +132,5 @@ The recommendations based on the analysis are:
 
 This project is licensed under the MIT License.
 ```
+
+Save this as `README.md` in the root directory of your project. This provides a comprehensive overview of the project, including its structure, setup instructions, and detailed steps to run each script, ensuring that anyone can understand and reproduce the analysis.
