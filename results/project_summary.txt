@@ -1,0 +1,13 @@
+Customer Feedback Analysis Project Summary
+------------------------------------------
+Total number of feedback entries: 1000
+Average customer rating: 3.00
+Sentiment analysis - mean polarity: 0.09
+Sentiment analysis - standard deviation: 0.16
+
+Detailed thematic analysis results are saved in the 'results/' directory as word cloud images.
+
+Recommendations:
+1. Focus on improving areas identified as negative in sentiment analysis.
+2. Enhance services related to the most frequent terms in positive feedback.
+3. Regularly monitor customer feedback to track changes in sentiment over time.
